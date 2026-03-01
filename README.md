@@ -1,2 +1,4 @@
-# Blinkit-sales-dashboard-powerbi
-Power BI dashboard analyzing Blinkit retail sales data using DAX and Power Query. Provides insights into sales trends, outlet performance, item categories, and customer ratings.
+🛒 Blinkit Sales Dashboard 📊
+
+An interactive sales analysis dashboard built using Power BI to analyze the performance of Blinkit – India’s Last Minute App.
+This dashboard provides deep insights into total sales, outlet performance, item distribution, customer ratings, and sales trends over the years.
