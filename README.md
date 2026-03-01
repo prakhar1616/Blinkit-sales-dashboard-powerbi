@@ -51,9 +51,9 @@ Blinkit performs exceptionally well in Tier 3 cities, indicating strong demand i
 
 ## 5️⃣ Item Type Performance 🛍️
 Top-performing categories: <br />
-🥦 Fruits & Vegetables (~$0.18M) <br />
-🍿 Snack Foods (~$0.18M) <br />
-🏠 Household Items (~$0.14M) <br />
+🥦 Fruits & Vegetables ($0.18M) <br />
+🍿 Snack Foods ($0.18M) <br />
+🏠 Household Items ($0.14M) <br />
 
 Lowest-performing categories: <br />
 🐟 Seafood <br />
@@ -62,8 +62,8 @@ Lowest-performing categories: <br />
 Daily essentials and snack items drive maximum revenue. <br />
 
 ## 6️⃣ Fat Content Analysis 🥛
-Regular items contributed more revenue (~$776K). <br />
-Low-fat products contributed (~$425K). <br />
+Regular items contributed more revenue ($776K). <br />
+Low-fat products contributed ($425K). <br />
 📌 Business Insight: <br />
 Customers prefer regular items over low-fat alternatives. <br />
 
