@@ -97,4 +97,6 @@ Your feedback helps me improve and grow as a Data Analyst 🚀 <br />
 Prakhar Sonkar ✨ <br />
 Aspiring Data Analyst | Excel | Power BI | DAX | Power Query <br />
 
+🔗 LinkedIn: https://www.linkedin.com/in/prakhar-sonkar-14a244396/
+
 
